@@ -234,6 +234,7 @@ Format:
 | Roc Hodges | [myth134](https://github.com/myth134) ||
 | Rod Lai | [Rodlikespants](https://github.com/Rodlikespants) | I know Java, Perl, C++, and a little bit of many others (Ruby, Python, JavaScript, Node.js).  I've been working in the industry for a few years but would like more experience developing independent projects and contributing to OSS |
 | Russ Bryan | [rchkb](https://github.com/) ||
+| Ryan Welch | [ryanwelch](https://github.com/ryanwelch) | Learning to code in my spare time. Looking to switch careers. Dabbled in the basics of a few languages. Trying to be a github contributer!|
 | Sadie Dutcher | [SadieD](https://github.com/SadieD) ||
 | Sai Manoj Kumar Yadlapati | [saimanoj](https://github.com/saimanoj) | Can Program in C and Java. Learning and loving Python. Not to forget my love towards open source. |
 | Saikiran S | [saikiran1096](https://github.com/saikiran1096) | I have experience with Java and would like to begin contributing to open-source projects!
